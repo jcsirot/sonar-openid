@@ -58,7 +58,7 @@
   </ciManagement>
 
   <properties>
-    <sonar.version>3.1</sonar.version>
+    <sonar.version>4.5.2</sonar.version>
   </properties>
 
   <dependencies>
